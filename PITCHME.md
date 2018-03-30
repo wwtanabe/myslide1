@@ -3,6 +3,11 @@
 
 これはサンプルのスライド資料です。
 
+- Java
+- JavaScript |
+- Kotlin |
+- Go |
+- Scala |
 
 +++
 
